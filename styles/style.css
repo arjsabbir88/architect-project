@@ -207,7 +207,7 @@ main>section{
         justify-items: center;
         gap: 50px;
     }
-    .img-container{
+    .img-container img{
         width: 100%;
     }
     #experience-badge{
